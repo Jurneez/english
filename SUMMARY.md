@@ -5,7 +5,7 @@
 ## The Company
 
 * [Linked](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
+* [发音篇](the-company/fa-yin-pian.md)
 
 ## Little Prince
 
