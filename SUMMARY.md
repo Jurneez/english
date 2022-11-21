@@ -4,10 +4,10 @@
 
 ## The Company
 
-* [Linked](the-company/linked.md)
+* [Linked](the-company/vision-and-values.md)
 * [Meet the Team!](the-company/meet-the-team.md)
 
-## The Formal Stuff
+## Little Prince
 
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [Chapter1](little-prince/chapter1.md)
+* [Filing Expenses](little-prince/filing-expenses.md)
